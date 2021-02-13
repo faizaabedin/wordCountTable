@@ -50,5 +50,5 @@ Outputs
 	* countEachWord/report.html is an example of the html content
 
 Example Output:
-	![picture](Capture.PNG)
+	![picture](sampleHTML.PNG)
 
