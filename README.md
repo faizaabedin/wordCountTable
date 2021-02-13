@@ -49,4 +49,6 @@ outputs
 
 	* countEachWord/report.html is an example of the html content
 
+![picture](img/abc.png)
+
 
