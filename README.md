@@ -36,7 +36,7 @@ Steps to run program, type as follow:
 	* /input.txt is a example, please pass in the path to the actual file which is to be tested
 
 
-outputs 
+Outputs 
 
 	This programs populates a html file called report.html, associated in the root folder
 
@@ -49,6 +49,6 @@ outputs
 
 	* countEachWord/report.html is an example of the html content
 
-![picture](Capture.PNG)
+Example Output:
+	![picture](Capture.PNG)
 
-https://github.com/faizaabedin/wordCountTable/blob/master/Capture.PNG
