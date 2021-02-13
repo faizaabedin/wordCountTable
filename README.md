@@ -49,6 +49,6 @@ outputs
 
 	* countEachWord/report.html is an example of the html content
 
-![picture](capture.PNG)
+![picture](Capture.PNG)
 
-
+https://github.com/faizaabedin/wordCountTable/blob/master/Capture.PNG
