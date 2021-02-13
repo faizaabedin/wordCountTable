@@ -7,13 +7,13 @@ This program takes in path to the file, where the paragraph is stored
 #requirements to run
 JRE(Java Runtime Environment)
 
-#steps to run 
+#Steps to run 
 Open up Command Prompt(Windows) / Terminal(Linux)
 
-Steps to clone the repository, type as follows: 
+#Steps to clone the repository, type as follows: 
 git clone https://github.com/faizaabedin/wordCountTable.git
 
-Steps to run program, type as follow: 
+#Steps to run program, type as follow: 
 cd src/
 cd countEachWord/
 javac WordCountTable.java
